@@ -1,0 +1,3 @@
+sch2sym -intstyle ise -family spartan6 -w -refsym add1b /home/ubuntu/Downloads/SimpleProcessor/add1b.sch /home/ubuntu/Downloads/SimpleProcessor/add1b.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl add1b_drc.vhf -w /home/ubuntu/Downloads/SimpleProcessor/add1b.sch 
+sch2sym -intstyle ise -family spartan6 -w -refsym add1b /home/ubuntu/Downloads/SimpleProcessor/add1b.sch /home/ubuntu/Downloads/SimpleProcessor/add1b.sym 

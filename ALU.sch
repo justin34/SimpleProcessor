@@ -10,13 +10,8 @@
         <signal name="OPCODE(2:0)" />
         <signal name="A(7:0)" />
         <signal name="B(7:0)" />
-        <signal name="XLXN_15(7:0)" />
-        <signal name="XLXN_16(7:0)" />
-        <signal name="XLXN_17(7:0)" />
         <signal name="XLXN_18(7:0)" />
         <signal name="XLXN_19(7:0)" />
-        <signal name="XLXN_20(7:0)" />
-        <signal name="XLXN_21(7:0)" />
         <signal name="XLXN_22(7:0)" />
         <port polarity="Output" name="O(7:0)" />
         <port polarity="Input" name="OPCODE(2:0)" />
