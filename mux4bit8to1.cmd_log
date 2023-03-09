@@ -1,0 +1,5 @@
+sch2sym -intstyle ise -family spartan6 -w -refsym mux4bit8to1 /home/ise/Desktop/SimpleProcessor/mux4bit8to1.sch /home/ise/Desktop/SimpleProcessor/mux4bit8to1.sym 
+sch2sym -intstyle ise -family spartan6 -w -refsym mux4bit8to1 /home/ise/Desktop/SimpleProcessor/mux4bit8to1.sch /home/ise/Desktop/SimpleProcessor/mux4bit8to1.sym 
+xst -intstyle ise -ifn "/home/ise/Desktop/SimpleProcessor/mux4bit8to1.xst" -ofn "/home/ise/Desktop/SimpleProcessor/mux4bit8to1.syr" 
+xst -intstyle ise -ifn "/home/ise/Desktop/SimpleProcessor/mux4bit8to1.xst" -ofn "/home/ise/Desktop/SimpleProcessor/mux4bit8to1.syr" 
+sch2sym -intstyle ise -family spartan6 -w -refsym mux4bit8to1 /home/ise/Desktop/SimpleProcessor/mux4bit8to1.sch /home/ise/Desktop/SimpleProcessor/mux4bit8to1.sym 

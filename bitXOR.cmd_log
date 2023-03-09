@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/Desktop/SimpleProcessor/bitXOR.xst" -ofn "/home/ise/Desktop/SimpleProcessor/bitXOR.syr" 
+sch2sym -intstyle ise -family spartan6 -w -refsym bitXOR /home/ise/Desktop/SimpleProcessor/bitXOR.sch /home/ise/Desktop/SimpleProcessor/bitXOR.sym 

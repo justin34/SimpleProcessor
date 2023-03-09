@@ -1,0 +1,5 @@
+vhdl isim_temp "mybuf4.vhf"
+vhdl isim_temp "mux4bit8to1.vhf"
+vhdl isim_temp "mux8bit8to1.vhf"
+vhdl isim_temp "ALU.vhf"
+vhdl isim_temp "ALU_tb.vhd"

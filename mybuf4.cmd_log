@@ -1,0 +1,7 @@
+sch2sym -intstyle ise -family spartan6 -w -refsym mybuf4 /home/ise/Desktop/SimpleProcessor/mybuf4.sch /home/ise/Desktop/SimpleProcessor/mybuf4.sym 
+xst -intstyle ise -ifn "/home/ise/Desktop/SimpleProcessor/mybuf4.xst" -ofn "/home/ise/Desktop/SimpleProcessor/mybuf4.syr" 
+sch2sym -intstyle ise -family spartan6 -w -refsym mybuf4 /home/ise/Desktop/SimpleProcessor/mybuf4.sch /home/ise/Desktop/SimpleProcessor/mybuf4.sym 
+xst -intstyle ise -ifn "/home/ise/Desktop/SimpleProcessor/mybuf4.xst" -ofn "/home/ise/Desktop/SimpleProcessor/mybuf4.syr" 
+sch2sym -intstyle ise -family spartan6 -w -refsym mybuf4 /home/ise/Desktop/SimpleProcessor/mybuf4.sch /home/ise/Desktop/SimpleProcessor/mybuf4.sym 
+sch2sym -intstyle ise -family spartan6 -w -refsym mybuf4 /home/ise/Desktop/SimpleProcessor/mybuf4.sch /home/ise/Desktop/SimpleProcessor/mybuf4.sym 
+xst -intstyle ise -ifn "/home/ise/Desktop/SimpleProcessor/mybuf4.xst" -ofn "/home/ise/Desktop/SimpleProcessor/mybuf4.syr" 

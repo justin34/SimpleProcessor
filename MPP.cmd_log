@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/Desktop/SimpleProcessor/MPP.xst" -ofn "/home/ise/Desktop/SimpleProcessor/MPP.syr" 
+xst -intstyle ise -ifn "/home/ise/Desktop/SimpleProcessor/MPP.xst" -ofn "/home/ise/Desktop/SimpleProcessor/MPP.syr" 
